@@ -24,7 +24,7 @@
 
 ## ft_container
 - C++ STL 자료구조인 vector와 map을 직접 구현.
-- 
+
 ## webserv
 - 멀티플렉싱 기술을 사용해 클라이언트 요청들을 처리하는 HTTP 서버 구현.
 - polling 및 kqueue()를 사용해 요청 감지, 처리, 응답 기능 구현.
